@@ -1,0 +1,12 @@
+source,target,value,type
+Farm,Manufacturing_Consumed,1006251.3155052233,Food Consumed
+Farm,Retail_Consumed,1006251.3155052233,Food Consumed
+Farm,Food_service_Consumed,1006251.3155052233,Food Consumed
+Farm,Farm_Surplus,196908407.51456517,Food Surplus
+Foodservice,Residential_Consumed,298056080.0620548,Food Consumed
+Foodservice,Foodservice_Surplus,143655444.13963065,Food Surplus
+Manufacturing,Residential_Consumed,5081355.137754581,Food Consumed
+Manufacturing,Manufacturing_Surplus,142014173.8359517,Food Surplus
+Residential,Residential_Surplus,477928223.1754932,Food Surplus
+Retail,Residential_Consumed,10481394.978151778,Food Consumed
+Retail,Retail_Surplus,43153394.29396346,Food Surplus
